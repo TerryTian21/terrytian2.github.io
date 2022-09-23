@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.04f09898.css",
+    "main.js": "/static/js/main.bb0a6c73.js",
+    "static/media/ai.png": "/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/ProfilePhoto.png": "/static/media/ProfilePhoto.25d842b2dd7ccebde38c.png",
+    "static/media/ScryberLogo.png": "/static/media/ScryberLogo.1da86c4064362a48e777.png",
+    "static/media/Github.png": "/static/media/Github.3ec61b93854178c47369.png",
+    "static/media/logo.png": "/static/media/logo.df1a20c55f3601597032.png",
+    "static/media/Data.png": "/static/media/Data.d13ec2bb4e55ff99481a.png",
+    "static/media/games.png": "/static/media/games.13d9ca9f1a90d940c580.png",
+    "static/media/linkedin.png": "/static/media/linkedin.311fc69e888c68190877.png",
+    "index.html": "/index.html",
+    "main.04f09898.css.map": "/static/css/main.04f09898.css.map",
+    "main.bb0a6c73.js.map": "/static/js/main.bb0a6c73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04f09898.css",
+    "static/js/main.bb0a6c73.js"
+  ]
+}
